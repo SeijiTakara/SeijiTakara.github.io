@@ -1,0 +1,13 @@
+{
+"companyName": "Qianli He Game Studio",
+"productName": "AIO",
+"dataUrl": "AIO_Game.data.unityweb",
+"wasmCodeUrl": "AIO_Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "AIO_Game.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
